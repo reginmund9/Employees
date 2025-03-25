@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcEmployees
 build_property.RootNamespace = MvcEmployees
-build_property.ProjectDir = C:\Users\ramoncin\Desktop\Employees\MvcEmployees\
+build_property.ProjectDir = c:\Users\ramoncin\Desktop\Employees\MvcEmployees\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ramoncin\Desktop\Employees\MvcEmployees
+build_property.MSBuildProjectDirectory = c:\Users\ramoncin\Desktop\Employees\MvcEmployees
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Create.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Delete.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Details.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Edit.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Index.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/HelloWorld/Index.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/HelloWorld/Welcome.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Home/Index.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Home/Privacy.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/Error.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/_ViewImports.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/_ViewStart.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/_Layout.cshtml]
+[c:/Users/ramoncin/Desktop/Employees/MvcEmployees/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uvdi3lrwpe

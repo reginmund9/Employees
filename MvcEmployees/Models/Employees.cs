@@ -21,7 +21,7 @@ public class Employee
     [Required]
     public string? JobTitle { get; set; }
     
-    
+    [Display(Name = "Salary per Month")]
     [Column(TypeName = "decimal(18, 2)")]
     [Required]
     public decimal Salary { get; set; }

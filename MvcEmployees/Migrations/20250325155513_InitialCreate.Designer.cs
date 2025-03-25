@@ -11,7 +11,7 @@ using MvcEmployees.Data;
 namespace MvcEmployees.Migrations
 {
     [DbContext(typeof(MvcEmployeesContext))]
-    [Migration("20250325075454_InitialCreate")]
+    [Migration("20250325155513_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -30,16 +30,19 @@ namespace MvcEmployees.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("JobTitle")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("PhoneNumber")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("Salary")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("decimal(18, 2)");
 
                     b.HasKey("Id");
 

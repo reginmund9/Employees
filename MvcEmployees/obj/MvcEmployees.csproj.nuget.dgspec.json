@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj": {}
+    "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj": {
+    "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj",
+        "projectUniqueName": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj",
         "projectName": "MvcEmployees",
-        "projectPath": "C:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj",
+        "projectPath": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\MvcEmployees.csproj",
         "packagesPath": "C:\\Users\\ramoncin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\",
+        "outputPath": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

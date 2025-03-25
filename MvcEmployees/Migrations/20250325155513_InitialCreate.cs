@@ -17,11 +17,11 @@ namespace MvcEmployees.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Name = table.Column<string>(type: "TEXT", nullable: true),
+                    Name = table.Column<string>(type: "TEXT", nullable: false),
                     HireDate = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    JobTitle = table.Column<string>(type: "TEXT", nullable: true),
-                    Salary = table.Column<decimal>(type: "TEXT", nullable: false),
-                    PhoneNumber = table.Column<string>(type: "TEXT", nullable: true)
+                    JobTitle = table.Column<string>(type: "TEXT", nullable: false),
+                    Salary = table.Column<decimal>(type: "decimal(18, 2)", nullable: false),
+                    PhoneNumber = table.Column<string>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {

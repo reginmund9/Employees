@@ -24,7 +24,7 @@ public static class SeedData
                     Name = "John Doe",
                     HireDate = DateTime.Parse("2015-06-23"),
                     JobTitle = "Software Developer",
-                    Salary = 75000M,
+                    Salary = 6500M,
                     PhoneNumber = "123-456-7890"
                 },
                 new Employee
@@ -32,7 +32,7 @@ public static class SeedData
                     Name = "Jane Smith",
                     HireDate = DateTime.Parse("2018-11-15"),
                     JobTitle = "Project Manager",
-                    Salary = 90000M,
+                    Salary = 7000M,
                     PhoneNumber = "987-654-3210"
                 },
                 new Employee
@@ -40,7 +40,7 @@ public static class SeedData
                     Name = "Michael Johnson",
                     HireDate = DateTime.Parse("2020-02-01"),
                     JobTitle = "UI/UX Designer",
-                    Salary = 65000M,
+                    Salary = 5000M,
                     PhoneNumber = "555-234-5678"
                 },
                 new Employee
@@ -48,7 +48,7 @@ public static class SeedData
                     Name = "Emily Davis",
                     HireDate = DateTime.Parse("2017-08-10"),
                     JobTitle = "Data Analyst",
-                    Salary = 70000M,
+                    Salary = 6000M,
                     PhoneNumber = "444-555-6666"
                 }
             );
