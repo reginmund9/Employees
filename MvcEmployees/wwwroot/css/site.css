@@ -38,9 +38,9 @@ body {
   margin-bottom: 20px;
 }
 
-.filter {
-  color: black;
-  background-color: #fdf182;
-  border-color: #1861ac;
-
+input[type="submit"] {
+  background-color: #fff461; 
+  color: black; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease, border-color 0.3s ease; 
 }
