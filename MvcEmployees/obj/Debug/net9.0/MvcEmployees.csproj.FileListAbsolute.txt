@@ -19,7 +19,6 @@ c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\scopedcss\View
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\scopedcss\bundle\MvcEmployees.styles.css
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\scopedcss\projectbundle\MvcEmployees.bundle.scp.css
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\mt42w9e9cv-61n19gt1b8.gz
-c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\o2nlgd5d91-xtxxf3hu2r.gz
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\i2769f0wmr-bqjiyaj88i.gz
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\5xfbkdo7cx-c2jlpeoesf.gz
 c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\v7sbode8kx-erw9l3u2r3.gz
@@ -359,8 +358,6 @@ C:\Users\ramoncin\Desktop\Employees\MvcEmployees\bin\Debug\net9.0\runtimes\win-x
 C:\Users\ramoncin\Desktop\Employees\MvcEmployees\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\MvcEmployees.csproj.AssemblyReference.cache
 C:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\MvcEmplo.BC91B016.Up2Date
-c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\u59les2xtn-qtzb3o6om9.gz
-c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\44asebym93-qtzb3o6om9.gz
 c:\Users\ramoncin\Desktop\MvcEmployees\bin\Debug\net9.0\appsettings.Development.json
 c:\Users\ramoncin\Desktop\MvcEmployees\bin\Debug\net9.0\appsettings.json
 c:\Users\ramoncin\Desktop\MvcEmployees\bin\Debug\net9.0\MvcEmployees.staticwebassets.runtime.json
@@ -724,4 +721,7 @@ c:\Users\ramoncin\Desktop\MvcEmployees\obj\Debug\net9.0\refint\MvcEmployees.dll
 c:\Users\ramoncin\Desktop\MvcEmployees\obj\Debug\net9.0\MvcEmployees.pdb
 c:\Users\ramoncin\Desktop\MvcEmployees\obj\Debug\net9.0\MvcEmployees.genruntimeconfig.cache
 c:\Users\ramoncin\Desktop\MvcEmployees\obj\Debug\net9.0\ref\MvcEmployees.dll
-C:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\nfq705q3ay-4ti4sdw5ye.gz
+c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\u59les2xtn-c7ntbbh4st.gz
+c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\44asebym93-c7ntbbh4st.gz
+c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\o2nlgd5d91-p7glwjo6vu.gz
+c:\Users\ramoncin\Desktop\Employees\MvcEmployees\obj\Debug\net9.0\compressed\nfq705q3ay-x43lbwo7y4.gz

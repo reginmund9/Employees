@@ -10,6 +10,9 @@ a.navbar-brand[b-uvdi3lrwpe] {
 a[b-uvdi3lrwpe] {
   color: #0077cc;
 }
+a:hover[b-uvdi3lrwpe] {
+  color: #005fa3; /* Change link color when hovered */
+}
 
 .btn-primary[b-uvdi3lrwpe] {
   color: black;
@@ -46,3 +49,5 @@ button.accept-policy[b-uvdi3lrwpe] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+

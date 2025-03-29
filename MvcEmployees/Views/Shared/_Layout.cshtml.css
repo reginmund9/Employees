@@ -10,6 +10,9 @@ a.navbar-brand {
 a {
   color: #0077cc;
 }
+a:hover {
+  color: #005fa3; /* Change link color when hovered */
+}
 
 .btn-primary {
   color: black;
@@ -46,3 +49,5 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jxFm6JfWcgDOvNFpRz8ChF7k+IwRJ4KzW2eEAfgtWCY=",
+  "Hash": "og8K1A9ZeWVAAS/a2mrrx2CjM1RU7XrsNPkSADngxsc=",
   "Source": "MvcEmployees",
   "BasePath": "_content/MvcEmployees",
   "Mode": "Default",
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-qtzb3o6om9.gz",
+      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-c7ntbbh4st.gz",
       "SourceId": "MvcEmployees",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MvcEmployees",
-      "RelativePath": "MvcEmployees#[.{fingerprint=qtzb3o6om9}]!.bundle.scp.css.gz",
+      "RelativePath": "MvcEmployees#[.{fingerprint=c7ntbbh4st}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcEmployees.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xlagyluh5m",
-      "Integrity": "S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=",
+      "Fingerprint": "cxctkbrad4",
+      "Integrity": "sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcEmployees.bundle.scp.css"
@@ -794,12 +794,12 @@
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-4ti4sdw5ye.gz",
+      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-x43lbwo7y4.gz",
       "SourceId": "MvcEmployees",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MvcEmployees",
-      "RelativePath": "css/site#[.{fingerprint=4ti4sdw5ye}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=x43lbwo7y4}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -808,19 +808,19 @@
       "RelatedAsset": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qrzlt4o8e5",
-      "Integrity": "VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig=",
+      "Fingerprint": "bjw90sdhkp",
+      "Integrity": "9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-xtxxf3hu2r.gz",
+      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-p7glwjo6vu.gz",
       "SourceId": "MvcEmployees",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MvcEmployees",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=p7glwjo6vu}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -829,8 +829,8 @@
       "RelatedAsset": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rl5dcbfpcw",
-      "Integrity": "Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=",
+      "Fingerprint": "e7gy546fnv",
+      "Integrity": "dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\js\\site.js"
@@ -1067,12 +1067,12 @@
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-qtzb3o6om9.gz",
+      "Identity": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-c7ntbbh4st.gz",
       "SourceId": "MvcEmployees",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MvcEmployees",
-      "RelativePath": "MvcEmployees#[.{fingerprint=qtzb3o6om9}]?.styles.css.gz",
+      "RelativePath": "MvcEmployees#[.{fingerprint=c7ntbbh4st}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcEmployees.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xlagyluh5m",
-      "Integrity": "S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=",
+      "Fingerprint": "cxctkbrad4",
+      "Integrity": "sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcEmployees.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "qtzb3o6om9",
-      "Integrity": "4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=",
+      "Fingerprint": "c7ntbbh4st",
+      "Integrity": "SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcEmployees.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "qtzb3o6om9",
-      "Integrity": "4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=",
+      "Fingerprint": "c7ntbbh4st",
+      "Integrity": "SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcEmployees.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4ti4sdw5ye",
-      "Integrity": "OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk=",
+      "Fingerprint": "x43lbwo7y4",
+      "Integrity": "31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "p7glwjo6vu",
+      "Integrity": "q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.4ti4sdw5ye.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-4ti4sdw5ye.gz",
+      "Route": "css/site.css",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-x43lbwo7y4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002257336343"
+          "Quality": "0.001552795031"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "442"
+          "Value": "643"
         },
         {
           "Name": "ETag",
-          "Value": "\"VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig=\""
+          "Value": "\"9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk=\""
+          "Value": "W/\"31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4ti4sdw5ye"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk="
+          "Value": "sha256-31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo="
         }
       ]
     },
     {
-      "Route": "css/site.4ti4sdw5ye.css",
+      "Route": "css/site.css",
       "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "975"
+          "Value": "1961"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk=\""
+          "Value": "\"31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-x43lbwo7y4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.x43lbwo7y4.css",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-x43lbwo7y4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001552795031"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x43lbwo7y4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.x43lbwo7y4.css",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ti4sdw5ye"
+          "Value": "x43lbwo7y4"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk="
+          "Value": "sha256-31GjstWYFObiEhbHrp6aLid7wsN24tH2QJOsK+YkrZo="
         }
       ]
     },
     {
-      "Route": "css/site.4ti4sdw5ye.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-4ti4sdw5ye.gz",
+      "Route": "css/site.x43lbwo7y4.css.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-x43lbwo7y4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "442"
+          "Value": "643"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig=\""
+          "Value": "\"9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
+          "Value": "Sat, 29 Mar 2025 19:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ti4sdw5ye"
+          "Value": "x43lbwo7y4"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-4ti4sdw5ye.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002257336343"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "442"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "975"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OGjOFP6pXT12tWP0Ikqu0+vt1vapA90QiPhZ8HYotTk="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\nfq705q3ay-4ti4sdw5ye.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "442"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 13:58:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VvVe0UZBVWgKN/tLG5JgtFrO7VB7vqcUBc4Mrj8KGig="
+          "Value": "sha256-9ww/nUnNaX9jD7kiI3xhfuYUbqcdM9PtAFbW9JHvfMk="
         }
       ]
     },
@@ -3325,12 +3325,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-xtxxf3hu2r.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-p7glwjo6vu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.005208333333"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "191"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s="
         }
       ]
     },
@@ -3389,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "237"
         },
         {
           "Name": "Content-Type",
@@ -3397,11 +3397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3411,13 +3411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-xtxxf3hu2r.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-p7glwjo6vu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3426,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "191"
         },
         {
           "Name": "Content-Type",
@@ -3434,11 +3434,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,18 +3456,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+          "Value": "sha256-dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-xtxxf3hu2r.gz",
+      "Route": "js/site.p7glwjo6vu.js",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-p7glwjo6vu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.005208333333"
         }
       ],
       "ResponseHeaders": [
@@ -3477,15 +3477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "191"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3505,13 +3505,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "p7glwjo6vu"
         },
         {
           "Name": "label",
@@ -3519,12 +3519,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.p7glwjo6vu.js",
       "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3534,7 +3534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "237"
         },
         {
           "Name": "Content-Type",
@@ -3542,11 +3542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3556,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "p7glwjo6vu"
         },
         {
           "Name": "label",
@@ -3564,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-q27cx95LuRm2TD5ndsnJGQ9mIvmnS/0KlKGuh8fQU/s="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-xtxxf3hu2r.gz",
+      "Route": "js/site.p7glwjo6vu.js.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\o2nlgd5d91-p7glwjo6vu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3579,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "191"
         },
         {
           "Name": "Content-Type",
@@ -3587,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 06:18:52 GMT"
+          "Value": "Sat, 29 Mar 2025 17:58:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "p7glwjo6vu"
         },
         {
           "Name": "label",
@@ -3617,7 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+          "Value": "sha256-dqT5LHzYxnLpte5ViOTVFEOjdEhMB7s+RODgeNztuEc="
         }
       ]
     },
@@ -21287,12 +21287,12 @@
     },
     {
       "Route": "MvcEmployees.bundle.scp.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-qtzb3o6om9.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-c7ntbbh4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001798561151"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "W/\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
@@ -21351,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1219"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21373,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
       "Route": "MvcEmployees.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-qtzb3o6om9.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-c7ntbbh4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21418,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug="
+          "Value": "sha256-sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.bundle.scp.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-qtzb3o6om9.gz",
+      "Route": "MvcEmployees.c7ntbbh4st.bundle.scp.css",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-c7ntbbh4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001798561151"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -21439,15 +21439,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21467,13 +21467,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "W/\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21481,12 +21481,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.bundle.scp.css",
+      "Route": "MvcEmployees.c7ntbbh4st.bundle.scp.css",
       "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcEmployees.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21496,7 +21496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1219"
         },
         {
           "Name": "Content-Type",
@@ -21504,11 +21504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21518,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21526,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-qtzb3o6om9.gz",
+      "Route": "MvcEmployees.c7ntbbh4st.bundle.scp.css.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\44asebym93-c7ntbbh4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21541,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -21549,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21571,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21579,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug="
+          "Value": "sha256-sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.styles.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-qtzb3o6om9.gz",
+      "Route": "MvcEmployees.c7ntbbh4st.styles.css",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-c7ntbbh4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001798561151"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -21600,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21628,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "W/\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21642,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.styles.css",
+      "Route": "MvcEmployees.c7ntbbh4st.styles.css",
       "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MvcEmployees.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21657,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1219"
         },
         {
           "Name": "Content-Type",
@@ -21665,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21679,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21687,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
-      "Route": "MvcEmployees.qtzb3o6om9.styles.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-qtzb3o6om9.gz",
+      "Route": "MvcEmployees.c7ntbbh4st.styles.css.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-c7ntbbh4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21702,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -21710,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21732,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qtzb3o6om9"
+          "Value": "c7ntbbh4st"
         },
         {
           "Name": "label",
@@ -21740,18 +21740,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug="
+          "Value": "sha256-sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo="
         }
       ]
     },
     {
       "Route": "MvcEmployees.styles.css",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-qtzb3o6om9.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-c7ntbbh4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001798561151"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -21761,15 +21761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21789,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "W/\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
@@ -21810,7 +21810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1219"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +21818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk=\""
+          "Value": "\"SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +21832,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tJAj684lzqzyCwrLPHBGYtFQD4zc8u2SP+85ujF9Sk="
+          "Value": "sha256-SN5i/n2vvhiq7C58RHzS3zmnDlt0zdBngugT/5qkVWs="
         }
       ]
     },
     {
       "Route": "MvcEmployees.styles.css.gz",
-      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-qtzb3o6om9.gz",
+      "AssetFile": "c:\\Users\\ramoncin\\Desktop\\Employees\\MvcEmployees\\obj\\Debug\\net9.0\\compressed\\u59les2xtn-c7ntbbh4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21847,7 +21847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "555"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -21855,11 +21855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug=\""
+          "Value": "\"sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 12:54:36 GMT"
+          "Value": "Sat, 29 Mar 2025 17:14:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +21877,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S3DKymevI1mOkukuGMMY57UdrJaeL/CelSOTkcdYlug="
+          "Value": "sha256-sLbMf1AUvt5iJp3udt6Zlw4M/P1Zc+2a6HIGn01fNIo="
         }
       ]
     }

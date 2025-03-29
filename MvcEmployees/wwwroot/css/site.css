@@ -32,15 +32,64 @@ body {
 
 .btn-primary {
   color: black;
-  background-color: #fdf182;
+  background-color: yellow;
   border-color: #1861ac;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
 input[type="submit"] {
-  background-color: #fff461; 
+  background-color: #82dafd; 
   color: black; 
   cursor: pointer; 
   transition: background-color 0.3s ease, border-color 0.3s ease; 
 }
+
+input[type="submit"]:hover {
+  background-color: rgb(248, 248, 38); /* Dark */
+  color: black;
+}
+
+
+/* Navbar link hover effects 
+.navbar-nav .nav-item .nav-link {
+  background-color: #82dafd;
+  border-radius: 4px;
+}*/
+
+
+/* Menu */
+.navbar-nav .nav-item:nth-child(1) .nav-link {
+  background-color: #82dafd;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+  margin-right: 15px;
+}
+.navbar-nav .nav-item:nth-child(2) .nav-link {
+  background-color: #82dafd;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+}
+
+/* Hover effect for menu */
+.navbar-nav .nav-item:nth-child(1) .nav-link:hover {
+  background-color: yellow;
+}
+.navbar-nav .nav-item:nth-child(2) .nav-link:hover {
+  background-color: yellow;
+}
+
+
+.navbar-brand {
+  background-color: #82dafd;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+}
+
+.navbar-brand:hover {
+  background-color: yellow; /* Light background color */
+}
+
