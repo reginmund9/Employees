@@ -10,6 +10,8 @@ using MvcEmployees.Models;
 
 namespace MvcEmployees.Controllers
 {
+    //This controller acts as an intermediary between the Models and Views 
+    //The function is to handle incoming http requests and return a response
     public class EmployeesController : Controller
     {
         private readonly MvcEmployeesContext _context;

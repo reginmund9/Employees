@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MvcEmployees.Models;
 
+// This is the Employee model class which represents the employee's data with various properties such as Name, HireDate, JobTitle, etc.
 public class Employee
 {
     public int Id { get; set; }
